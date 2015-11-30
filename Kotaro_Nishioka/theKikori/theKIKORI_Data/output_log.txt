@@ -1,0 +1,26 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\2年後期CG演習\CG_Kadai\1DS13193T\theKIKORI_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\2年後期CG演習\CG_Kadai\1DS13193T\theKIKORI_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\2年後期CG演習\CG_Kadai\1DS13193T\theKIKORI_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\2年後期CG演習\CG_Kadai\1DS13193T\theKIKORI_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\2年後期CG演習\CG_Kadai\1DS13193T\theKIKORI_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\2年後期CG演習\CG_Kadai\1DS13193T\theKIKORI_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  1.481 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: E:\2年後期CG演習\CG_Kadai\1DS13193T\theKIKORI_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.387309 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 154.661362 ms (FindLiveObjects: 0.009637 ms CreateObjectMapping: 0.008432 ms MarkObjects: 0.108422 ms  DeleteObjects: 0.325870 ms)
+
